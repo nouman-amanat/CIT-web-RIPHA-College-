@@ -1,0 +1,40 @@
+.box{
+   
+    width: 200px;
+    height: 200px;
+}
+.box-two{
+   
+    width: 200px;
+    height: 200px;
+    
+}
+.container{
+    display: flex;
+   
+}
+.nav{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    padding: 5px;
+}
+li{
+    padding: 20px;
+}
+.box-three{
+    width: 200px;
+    height: 200px;
+}
+.hero{
+    display: flex;
+}
+.image{
+    height: 400px;
+    width: 600px;
+    margin-left: 190px;
+}
+.txt{
+    text-decoration: none;
+    background-color: gray;
+}

@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/* .nav{
+    background-color: #44BDB2;
+}
+a{
+    padding: 20px;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    background-color: brown;
+}  */
+
+.nav{
+    display: flex;
+}
+.nav ul{
+    display: flex;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    padding: 30px;
+    margin-left: 90px;
+}
